@@ -1,0 +1,156 @@
+cv:
+  name: Syeda Jannatus Saba
+  label: PhD Candidate, Computer Science
+  email: sysaba@cs.stonybrook.edu
+  location: Stony Brook, NY
+  image: ""
+  summary: >
+    PhD candidate at Stony Brook University working on machine translation and
+    evaluation, with prior industry experience as a software engineer.
+
+  social_networks:
+    - network: GitHub
+      username: saba-phoenix
+    - network: LinkedIn
+      username: syeda-jannatus-saba
+
+  sections:
+    Education:
+      - institution: Stony Brook University
+        location: New York, USA
+        url: https://www.stonybrook.edu/
+        area: Computer Science
+        studyType: PhD
+        start_date: 2023-08
+        end_date: present
+        score: "GPA 3.95 / 4.00"
+        highlights:
+          - "Expected graduation: May 2028."
+          - "Research area: machine translation and evaluation."
+          - "Advised by Dr. Steven Skiena."
+
+      - institution: Shahjalal University of Science and Technology
+        location: Sylhet, Bangladesh
+        area: Computer Science and Engineering
+        studyType: BSc
+        start_date: 2017-02
+        end_date: 2021-09
+        score: "GPA 3.96 / 4.00"
+        highlights:
+          - "Dean's Award (2023): highest undergraduate GPA in the School of Applied Sciences & Technology."
+
+    Experience:
+      - company: Stony Brook University
+        position: Graduate Research Assistant
+        location: Stony Brook, NY
+        start_date: 2024-06
+        end_date: present
+        summary: Machine translation and evaluation research advised by Dr. Steven Skiena.
+        highlights:
+          - "Developed a synthetic data generation framework for training translation-evaluation models via iterative 'telephone' translations, achieving state-of-the-art correlation with human judgments and surpassing xCOMET (EMNLP 2025, Oral)."
+          - "Investigated constrained text generation with LLMs by producing an 'e'-less translation of The Great Gatsby, analyzing semantic fidelity under increasing letter restrictions (IJCNLP-AACL 2025, Oral)."
+          - "Building a multilingual textbook translation and PDF-to-LaTeX pipeline, ensuring book-level consistency, glossary accuracy, and stylistic preservation across languages."
+
+      - company: SafeBeat Rx
+        position: Software Engineer (Remote, Contract)
+        location: San Francisco, CA
+        start_date: 2022-11
+        end_date: 2023-08
+        summary: Y Combinator S21 company.
+        highlights:
+          - "Optimized graph visualization pipelines with efficient data structures to improve rendering on large datasets."
+          - "Implemented interactive graph exploration algorithms (zoom, pan, spatial layout) on canvas-based systems."
+          - "Built a component library from scratch for a new design system, rewriting the legacy frontend codebase."
+
+      - company: "Re:frame LLC"
+        position: Software Engineer (Remote, Contract)
+        location: Wilmington, DE
+        start_date: 2021-12
+        end_date: 2022-11
+        highlights:
+          - "Built a Visitor-pattern system for abstract syntax trees to automate code validation and refactoring."
+          - "Integrated Prisma, PlanetScale, and tRPC for scalable backend communication."
+
+    Publications:
+      - title: Evaluating Language Translation Models by Playing Telephone
+        authors:
+          - "**Syeda Jannatus Saba**"
+          - Steven Skiena
+        publisher: EMNLP 2025 (Oral)
+        releaseDate: 2025-11-01
+        url: https://aclanthology.org/2025.emnlp-main.524/
+
+      - title: "Gatsby without the 'E': Creating Lipograms with LLMs"
+        authors:
+          - Rohan Balasubramanian
+          - Nitish Gokulakrishnan
+          - "**Syeda Jannatus Saba**"
+          - Steven Skiena
+        publisher: IJCNLP-AACL 2025 (Oral)
+        releaseDate: 2025-12-01
+        url: https://arxiv.org/abs/2505.20501
+
+      - title: A Study on Using Semantic Word Associations to Predict the Success of a Novel
+        authors:
+          - "**Syeda Jannatus Saba***"
+          - "Biddut Sarker Bijoy*"
+          - Henry Gorelick
+          - Sabir Ismail
+          - Md Saiful Islam
+          - Mohammad Ruhul Amin
+        publisher: "*SEM 2021, co-located with ACL-IJCNLP 2021"
+        releaseDate: 2021-08-01
+        url: https://aclanthology.org/2021.starsem-1.4/
+        summary: "* denotes equal contribution."
+
+    Awards:
+      - title: Dean's Award
+        date: 2023
+        awarder: Shahjalal University of Science and Technology
+        summary: Highest undergraduate GPA in the School of Applied Sciences & Technology.
+
+      - title: ACM ICPC Dhaka Regional Programming Contest
+        date: 2019
+        awarder: ACM
+        summary: Top 15% among 300+ teams.
+
+      - title: National Girls' Programming Contest
+        date: 2019
+        awarder: Bangladesh
+        summary: Top 5 rank among 100+ teams (2018 and 2019).
+
+      - title: Bangladesh Regional Mathematical Olympiad
+        date: 2015
+        awarder: Bangladesh Mathematical Olympiad Committee
+        summary: 2nd Runner-up.
+
+    Service:
+      - company: BLP Workshop @ IJCNLP-AACL 2025
+        position: Program Committee & Reviewer
+        location: Bangla Language Processing Workshop
+        start_date: 2025
+        end_date: 2025
+        highlights:
+          - "Reviewed submissions for the Bangla Language Processing Workshop."
+
+    Skills:
+      - name: Machine Learning
+        icon: fa-solid fa-brain
+        keywords: "PyTorch, TensorFlow, scikit-learn, vLLM, Instruction Tuning, Distributed Training (DDP)"
+
+      - name: Natural Language Processing
+        icon: fa-solid fa-language
+        keywords: "Hugging Face, spaCy, PEFT, LoRA/qLoRA, Prompt Engineering"
+
+      - name: Tools
+        icon: fa-solid fa-screwdriver-wrench
+        keywords: "Python, C++, SQL, pandas, NumPy, CUDA, Git, Docker, Linux, Weights & Biases, Bash, SLURM, Jupyter"
+
+    Competitive Programming:
+      - name: Codeforces
+        icon: fa-solid fa-code
+        keywords: "Max rating 1774 (Valkyire28), top 1.1%"
+
+      - name: CodeChef
+        icon: fa-solid fa-code
+        keywords: "Max rating 2124 (kyrieo_0), top 0.5%"

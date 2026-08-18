@@ -34,7 +34,7 @@ I am a fourth-year PhD candidate in Computer Science at Stony Brook University, 
 
 My work builds reference-free translation evaluation, most recently by turning iterative round-trip translation into training data, reaching [state-of-the-art correlation with human judgments and outperforming xCOMET](https://aclanthology.org/2025.emnlp-main.524/).
 
-I am also interested in what happens to meaning under pressure: how far generation can be pushed when a model is forbidden a letter, a word, or a structure. That line of work produced [an 'e'-less translation of *The Great Gatsby*](https://arxiv.org/abs/2505.20501). Currently I am building a multilingual textbook translation and PDF-to-LaTeX pipeline that holds terminology and style consistent at book length.
+I am also interested in what happens to meaning under pressure: how far generation can be pushed when a model is forbidden a letter, a word, or a structure. That line of work produced [an 'e'-less translation of _The Great Gatsby_](https://arxiv.org/abs/2505.20501). Currently I am building a multilingual textbook translation and PDF-to-LaTeX pipeline that holds terminology and style consistent at book length.
 
 Before the PhD I spent two years as a software engineer, building canvas-based graph visualization systems and AST tooling for early-stage startups.
 

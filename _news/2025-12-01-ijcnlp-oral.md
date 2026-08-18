@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-*Gatsby without the 'E'* was accepted as an **oral** at IJCNLP-AACL 2025.
+_Gatsby without the 'E'_ was accepted as an **oral** at IJCNLP-AACL 2025.

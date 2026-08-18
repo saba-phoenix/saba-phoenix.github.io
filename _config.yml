@@ -230,7 +230,7 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
-  - private/          # personal working files - never publish
+  - private/ # personal working files - never publish
   - AGENTS.md
   - al-folio-upgrade-report.md
   - bin/
